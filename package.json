@@ -1,0 +1,16 @@
+{
+  "name": "example-hangs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "app-builder build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@gravity-ui/app-builder": "^0.11.2",
+    "@gravity-ui/tsconfig": "^1.0.0",
+    "@gravity-ui/uikit": "^6.21.0"
+  }
+}
